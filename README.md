@@ -17,7 +17,7 @@ Implemented CI/CD pipelines using Jenkins, cutting release cycles from weeks to 
 Deployed secure document storage using Amazon S3
 Built responsive UIs using Angular for real-time loan status tracking
 
-Software Engineer — Capgemini                                                                📍 India | May 2021 – Jun 2023
+Software Engineer — Capgemini                                                                📍 India | May 2020 – Jun 2023
 
 Developed scalable Hospital Information Management Systems (HIMS) using Java & Spring Boot
 Built secure REST APIs to integrate patient, billing, and administrative services
