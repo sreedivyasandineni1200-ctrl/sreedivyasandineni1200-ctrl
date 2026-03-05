@@ -2,7 +2,7 @@
 
 Software Engineer | AI & Machine Learning Enthusiast | Full-Stack Developer
 📍Florida, USA
-I am a Software Engineer with 3+ years of experience building scalable, enterprise-grade applications across finance, healthcare, and public-sector domains.
+I am a Software Engineer with 4+ years of experience building scalable, enterprise-grade applications across finance, healthcare, and public-sector domains.
 My expertise spans backend systems, distributed architectures, cloud platforms, and applied AI/ML.
 
 💼 Professional Experience
