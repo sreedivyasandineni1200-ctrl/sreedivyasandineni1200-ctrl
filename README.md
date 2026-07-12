@@ -1,8 +1,7 @@
 👋 Hi, I’m Divya Sree Sandineni
 
 Software Engineer | AI & Machine Learning Enthusiast | Full-Stack Developer
-📍Florida, USA
-I am a Software Engineer with 4+ years of experience building scalable, enterprise-grade applications across finance, healthcare, and public-sector domains.
+I am a Software Engineer with 3+ years of experience building scalable, enterprise-grade applications across finance, healthcare, and public-sector domains.
 My expertise spans backend systems, distributed architectures, cloud platforms, and applied AI/ML.
 
 💼 Professional Experience
@@ -16,9 +15,6 @@ Developed fraud detection pipelines using TensorFlow, reducing fraudulent approv
 Implemented CI/CD pipelines using Jenkins, cutting release cycles from weeks to days
 Deployed secure document storage using Amazon S3
 Built responsive UIs using Angular for real-time loan status tracking
-
-Software Engineer — Capgemini                                                                📍 India | May 2020 – Jun 2023
-
 Developed scalable Hospital Information Management Systems (HIMS) using Java & Spring Boot
 Built secure REST APIs to integrate patient, billing, and administrative services
 Designed microservices architecture enabling independent scaling of hospital modules
